@@ -6,4 +6,4 @@ Mod in the Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?i
 
 And even more bigger windows, shows more save files to load in the startmenu and the ingamemenu. Have fun.
 
-![](https://github.com/metzbernhard/hoi4-moresaves/blob/master/moresaves/moresaves.jpg)
+![](https://github.com/metzbernhard/hoi4-moresaves/blob/master/moresaves.jpg)
